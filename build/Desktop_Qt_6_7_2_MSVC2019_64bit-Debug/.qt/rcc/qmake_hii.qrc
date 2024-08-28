@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/hii">
+    <file alias="qmldir">C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/hii/qmldir</file>
+  </qresource>
+</RCC>
+
