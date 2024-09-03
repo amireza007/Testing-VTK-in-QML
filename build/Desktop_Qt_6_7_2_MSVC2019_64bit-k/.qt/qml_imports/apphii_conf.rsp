@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Asus/Projects/hii
+-cmake-output
+-output-file
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-k/.qt/qml_imports/apphii_conf.cmake
+-importPath
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-k/hii
+-importPath
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-k
+-importPath
+C:/Qt/6.7.2/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-k/.qt/rcc/qmake_hii.qrc
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-k/.qt/rcc/apphii_raw_qml_0.qrc

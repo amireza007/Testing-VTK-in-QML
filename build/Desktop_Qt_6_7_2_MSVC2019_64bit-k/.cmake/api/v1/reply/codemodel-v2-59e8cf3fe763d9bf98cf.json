@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-6051cd1e44a672c02c2c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hii",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-bf12623abd52e189b40a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-45422ce6de30aff0b12b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-ba7d23c34d0ef77abca9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-4fff070e3669e214ac36.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii-Release-1a385abad03935a58749.json",
+					"name" : "apphii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_autogen-Release-89596501c669d1c416c3.json",
+					"name" : "apphii_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_autogen_timestamp_deps-Release-8e4239a419d27396b12f.json",
+					"name" : "apphii_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmlimportscan-Release-7a92546ab16a4a3bc2f9.json",
+					"name" : "apphii_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmllint-Release-859def11efd1089b15ba.json",
+					"name" : "apphii_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmllint_json-Release-de01e1e3c63f31b8edbc.json",
+					"name" : "apphii_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmllint_module-Release-5e6223c6981ade56d494.json",
+					"name" : "apphii_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmltyperegistration-Release-27d6913601ecaa4b4437.json",
+					"name" : "apphii_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_tooling-Release-3a8425c5c7008ea8ff38.json",
+					"name" : "apphii_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-k",
+		"source" : "C:/Users/Asus/Projects/hii"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

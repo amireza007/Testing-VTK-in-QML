@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Asus/Projects/hii
+-cmake-output
+-output-file
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/apphii_build.cmake
+-importPath
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/hii
+-importPath
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_hii.qrc
+C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/apphii_raw_qml_0.qrc

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6051cd1e44a672c02c2c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hii",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-576878fc73f38340bea1.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-0368688272e0a2459b0b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2b8ad3c5223c5f0deabf.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-dd2cb19e7b851feff61a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii-Debug-e27c4fa4c20f028c3c88.json",
+					"name" : "apphii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_autogen-Debug-8b5f95b2e52e588ba3cb.json",
+					"name" : "apphii_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_autogen_timestamp_deps-Debug-8e4239a419d27396b12f.json",
+					"name" : "apphii_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmlimportscan-Debug-ef624b07d8a3b2ea6262.json",
+					"name" : "apphii_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmllint-Debug-97ba93790045720e2270.json",
+					"name" : "apphii_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmllint_json-Debug-d0f6d80b9e1edf32da53.json",
+					"name" : "apphii_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmllint_module-Debug-7f76be304ad9c807ada3.json",
+					"name" : "apphii_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_qmltyperegistration-Debug-18fa448c837a0f8ed853.json",
+					"name" : "apphii_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphii_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphii_tooling-Debug-fc27fe0ce1b666b69255.json",
+					"name" : "apphii_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Asus/Projects/hii"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

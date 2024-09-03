@@ -1,0 +1,5 @@
+module hii
+typeinfo apphii.qmltypes
+prefer :/qt/qml/hii/
+Main 1.0 Main.qml
+

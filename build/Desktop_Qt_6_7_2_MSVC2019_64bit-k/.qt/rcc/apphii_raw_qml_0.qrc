@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/hii/">
+    <file alias="Main.qml">C:/Users/Asus/Projects/hii/Main.qml</file>
+    <file alias="form.ui">C:/Users/Asus/Projects/hii/form.ui</file>
+  </qresource>
+</RCC>
+
