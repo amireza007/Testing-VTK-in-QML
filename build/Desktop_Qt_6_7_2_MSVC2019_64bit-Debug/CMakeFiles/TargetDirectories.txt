@@ -1,5 +1,4 @@
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/apphii.dir
-C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/VTK.dir
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/apphii_qmltyperegistration.dir
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/apphii_qmllint.dir
@@ -17,5 +16,3 @@ C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFile
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/apphii_autogen_timestamp_deps.dir
 C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/apphii_autogen.dir
-C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/VTK_autogen_timestamp_deps.dir
-C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/VTK_autogen.dir

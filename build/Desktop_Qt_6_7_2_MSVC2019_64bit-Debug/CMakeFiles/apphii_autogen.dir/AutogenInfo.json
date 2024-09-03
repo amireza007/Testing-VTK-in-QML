@@ -1391,7 +1391,15 @@
 		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
 		"_UNICODE",
 		"_WIN64",
-		"kiss_fft_scalar=double"
+		"kiss_fft_scalar=double",
+		"vtkDomainsChemistry_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkFiltersCore_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkIOExportGL2PS_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkIOExport_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkRenderingContext2D_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkRenderingCore_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkRenderingOpenGL2_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\"",
+		"vtkRenderingVolume_AUTOINIT_INCLUDE=\"C:/Users/Asus/Projects/hii/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/vtkModuleAutoInit_220c1d97314e76520b30c6e34d0dff76.h\""
 	],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -1402,7 +1410,6 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/VTKBin/lib/cmake/vtk-9.3",
 		"C:/Users/Asus/Projects/hii",
 		"C:/Qt/6.7.2/msvc2019_64/include/QtQml/6.7.2",
 		"C:/Qt/6.7.2/msvc2019_64/include/QtQml/6.7.2/QtQml",
